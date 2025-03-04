@@ -1,6 +1,6 @@
 ## About Me
 
-I am a recent graduate and data analyst wo is passionate about using data to solve complex problems and make a positive impact through my work.
+I am a recent graduate and data analyst who is passionate about using data to solve complex problems and make a positive impact through my work.
 
 This github is a collection of projects I did at Michigan State University while completing my minor in Quantitative Data Analytics and independent projects I did as part of my professional development.
 
